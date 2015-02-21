@@ -78,7 +78,7 @@ class CfgWeapons
 		recoil = "recoil_single_pistol_2outof3";
 		recoilProne = "recoil_single_pistol_prone_2outof3";
 		reloadTime=0.45;
-		sound[]={"\addons\redryder\RedRyder\M9SD_S1", db8, 1,60}; //will need to be changed
+		sound[]={"\addons\redryder\M9SD_S1", db8, 1,60}; //will need to be changed
 		dispersion=0.00045;
 		minRange=0;minRangeProbab=0.30;
 		midRange=39;midRangeProbab=0.7;
